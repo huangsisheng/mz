@@ -1,0 +1,479 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 4800,
+                "name": "血鲨",
+                "poster": "https://pic.maizuo.com/usr/movie/d2482ae6bfaa614c9078d5609a2e35e6.jpg",
+                "actors": [
+                    {
+                        "name": "王栎昂",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/129caba6229f4cc105afbec11f06e55b.jpg"
+                    },
+                    {
+                        "name": "方力申",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9c08f2f3037be61ffc7f84d5aab50b27.jpg"
+                    },
+                    {
+                        "name": "沈孟生",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4f80407f4a3960e615472d1122a9dc7f.jpg"
+                    },
+                    {
+                        "name": "周韦彤",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/284ffe6bd8ee24f2831f9427741a5c69.jpg"
+                    }
+                ],
+                "director": "王栎昂",
+                "category": "冒险|惊悚|灾难",
+                "synopsis": "六年前，游泳运动员明煦阳（方力申 饰）在海洋乐园遭遇意外，虽然通过生物技术治愈腿伤，但始终无法摆脱水和鲨鱼的心理阴影。六年后，他和教授姚琳为收集海洋生物基因重回故地，却不料陷入负责人秦启光设计的一场有关血鲨的巨大阴谋。与此同时，海洋乐园的驯养员齐幻（周韦彤 饰）发现，明煦阳竟和自己多年来的心结有关，看似毫不相干的两人，彼此的命运早已交织在了一起。而另一边，血鲨因基因编辑造成基因突变，试图逃离驯养池冲入浅海，惊心动魄的人鲨对决一触即发，面对突如其来的灾难，他们也将为无度的贪婪付出代价。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1570752000,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4911,
+                "name": " 囧男进化论",
+                "poster": "https://pic.maizuo.com/usr/movie/bce7b36f4bf93a97614e62dfca58ef0b.jpg",
+                "actors": [
+                    {
+                        "name": "江兰萱",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1fbe7d910c30e14db39ac82ab248b38f.png"
+                    },
+                    {
+                        "name": "金少丽",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8f54578f6a65cd497fe971b53e99c8f5.png"
+                    },
+                    {
+                        "name": "罗翔",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/98a278d9558cd733270a874172fd799d.png"
+                    },
+                    {
+                        "name": "吕晋源",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0be6b87b59263fdcd10704fac1aaae84.png"
+                    }
+                ],
+                "director": "金少丽",
+                "category": "喜剧|爱情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1570752000,
+                "timeType": 3,
+                "runtime": 105,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4885,
+                "name": "犯罪现场",
+                "poster": "https://pic.maizuo.com/usr/movie/7f2fde40e6964725842aabc1b266d256.jpg",
+                "actors": [
+                    {
+                        "name": "冯志强",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/02a739a5e05faed07358f1a29c96fd8d.png"
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4457715226dc28bb98a36423dd85c657.png"
+                    },
+                    {
+                        "name": "宣萱.",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b2236c515cd24f264409a7a11aafbf14.png"
+                    },
+                    {
+                        "name": "颜卓灵",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/251ba72110dc65fa6a759de933c16210.png"
+                    },
+                    {
+                        "name": "张继聪",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6944d2b0044a4015311a74af9d5b35ee.png"
+                    }
+                ],
+                "director": "冯志强",
+                "category": "犯罪|悬疑|剧情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港",
+                "language": "粤语",
+                "videoId": "XNDM1NDA2MDU3Ng==",
+                "premiereAt": 1570838400,
+                "timeType": 3,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4893,
+                "name": " 急速逃脱",
+                "poster": "https://pic.maizuo.com/usr/movie/d5a7869fe89dc8d906d18c5f97e33eed.jpg",
+                "actors": [
+                    {
+                        "name": "汉娜·赫茨施普龙",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0bb8c2d235ca471a862bba374aa66214.png"
+                    },
+                    {
+                        "name": "克里斯蒂安·阿瓦特",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e030f15753aa9d00c3e139afc9a10bf6.png"
+                    },
+                    {
+                        "name": "克里斯蒂安娜·保罗",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f5f1ccdf604411b8ea445a004ef0d52.png"
+                    },
+                    {
+                        "name": "沃坦·维尔克·默林",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c1c39e805a5eba5a71ffcd671be40ae1.png"
+                    }
+                ],
+                "director": "克里斯蒂安·阿瓦特",
+                "category": "惊悚|悬疑|犯罪",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "德国",
+                "language": "德语",
+                "videoId": "XNDM2NDE2Nzc3Ng==",
+                "premiereAt": 1570838400,
+                "timeType": 3,
+                "runtime": 109,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4887,
+                "name": "双子杀手",
+                "poster": "https://pic.maizuo.com/usr/movie/9436cef81abf73e3cc726a5688b79cbd.jpg",
+                "actors": [
+                    {
+                        "name": "本尼迪特·王",
+                        "role": "Baron",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44c13ae0465e3e3931be4463432315b9.png"
+                    },
+                    {
+                        "name": "李安",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/76033264fe39af9f0c087098800303db.png"
+                    },
+                    {
+                        "name": "克里夫·欧文",
+                        "role": "ClayVerris",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ad28e61771b6811da7beb7b35076cb2e.png"
+                    },
+                    {
+                        "name": "玛丽·伊丽莎白·温斯特德",
+                        "role": "DannyZakarweski",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ac59f1314020bf940c6440f14475dae.png"
+                    },
+                    {
+                        "name": "威尔史密斯",
+                        "role": "Henrybrogan/junior",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7e72ba95b2a1d271be0d0318882bcac7.png"
+                    }
+                ],
+                "director": "李安",
+                "category": "剧情|动作|科幻",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆 美国",
+                "language": "英语",
+                "videoId": "XNDM0MDQzMjE4NA==",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4901,
+                "name": "我在耀瓷小镇等你",
+                "poster": "https://pic.maizuo.com/usr/movie/ded8c4e007e88169611596be98bd1433.jpg",
+                "actors": [
+                    {
+                        "name": "孙霆",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f53b7455231cb61e2adf372cc4c8da46.png"
+                    },
+                    {
+                        "name": "唐昕",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/85fdb12d67b808583edf405d1edbb0bb.png"
+                    },
+                    {
+                        "name": "周毅",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44abd7fdb55233c14652532884934750.png"
+                    }
+                ],
+                "director": "周毅",
+                "category": "剧情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 96,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4904,
+                "name": "开国大典",
+                "poster": "https://pic.maizuo.com/usr/movie/81933fb9994909572a831978e6b13525.jpg",
+                "actors": [
+                    {
+                        "name": "李前宽",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ef9aa955e24aedf5596e05a918266466.jpg"
+                    },
+                    {
+                        "name": "肖桂云",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/63947c5e409cec2b2af2a8c38824d331.jpg"
+                    },
+                    {
+                        "name": "古月",
+                        "role": "毛泽东",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/521f80aa2e4ebf366c7a888b3da2df80.jpg"
+                    },
+                    {
+                        "name": "孙飞虎",
+                        "role": "蒋介石",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/94ffd1831d9583db11bcd4560fa5c81a.jpg"
+                    },
+                    {
+                        "name": "黄凯",
+                        "role": "周恩来",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9ed7927bb4bf5dd3e01129cada0df5ea.jpg"
+                    }
+                ],
+                "director": "李前宽|肖桂云",
+                "category": "剧情|历史",
+                "synopsis": "举世闻名的辽沈、淮海、平津三大战役胜利后，西柏坡军民欢庆胜利。三大战役的胜利使蒋家王朝摇摇欲坠，蒋介石（孙飞虎 饰）发表“新年文告”、推出李宗仁（邵宏来 饰）任代总统，导演了一幕假隐退真操纵的丑剧。1949年1月21日，蒋介石由汤恩伯（叶庆林 饰）、蒋经国（陈国典 饰）等陪同，最后一次登上中山陵，之后又在其老家奉化溪口主持了高级军事会议，妄图阻止解放军过长江。3月，中共七届二中全会召开，4月，毛泽东（古月 饰）与朱德（刘怀正 饰）。总司令发出了向全国进军的命令。人民解放军百万雄师强渡长江，攻占总统府，南京胜利解放。5月24日，蒋介石逃往台湾。5月26日，上海解放。随后，全国大部分地区和城市都获得解放。毛泽东先后在中南海会见了国民党起义将领和各界民主人士。开国大典迫在眉睫......",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 175,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4908,
+                "name": "沉睡魔咒2",
+                "poster": "https://pic.maizuo.com/usr/movie/5ba8d5bad40b57054a2d5a365c8501ac.jpg",
+                "actors": [
+                    {
+                        "name": "艾德·斯克林",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bf5bd5fbc9c4bad2bd27e9dcf9668160.png"
+                    },
+                    {
+                        "name": "安吉丽娜·朱莉",
+                        "role": "Maleficent",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0b45a93d5b7e2d87bfb0f41b74e68281.png"
+                    },
+                    {
+                        "name": "米歇尔·菲佛",
+                        "role": "Queen Ingrith",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/47e584a75dd03f83b2100a250ccbdb48.png"
+                    },
+                    {
+                        "name": "乔阿吉姆·罗恩尼",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/01637a3871b7fddd75317c26e0d83c61.png"
+                    }
+                ],
+                "director": "乔阿吉姆·罗恩尼",
+                "category": "冒险|奇幻",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 119,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4909,
+                "name": "航海王：狂热行动",
+                "poster": "https://pic.maizuo.com/usr/movie/9af51153a1cc23ff69ace1866559f608.jpg",
+                "actors": [
+                    {
+                        "name": "大塚隆史",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cc449f8912fa58559c66c7fa7f0fb180.png"
+                    },
+                    {
+                        "name": "冈村明美饰",
+                        "role": "娜美",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bac40ea3e45a61390dd2849ee8889578.png"
+                    },
+                    {
+                        "name": "田中真弓",
+                        "role": "蒙奇·D·路飞",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/df0b77c1977edd673c62e87029cd1340.png"
+                    },
+                    {
+                        "name": "中井和哉",
+                        "role": "罗罗诺亚·索隆",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b1bad598db6b54ba6147b2f7877acc26.png"
+                    }
+                ],
+                "director": "大塚隆史",
+                "category": "动画|冒险",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "日语",
+                "videoId": "XNDM4MDc3Mzk2OA==",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 101,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4889,
+                "name": "你好霸王龙",
+                "poster": "https://pic.maizuo.com/usr/movie/4c4edb3c2e91ea02de4d00306fc10a51.jpg",
+                "actors": [
+                    {
+                        "name": "陈子平",
+                        "role": "阿瓜",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5a592f001da9a7f19c6da8c054ff7bfe.png"
+                    },
+                    {
+                        "name": "段奥娟",
+                        "role": "小樱",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9040c4ea6682440da905dfc25a9249d7.png"
+                    },
+                    {
+                        "name": "林珍钊",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/25d97e24d740897d111d515a06e18543.png"
+                    },
+                    {
+                        "name": "石原夏织",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d67909876777adb9e75d37d53ea7c49f.png"
+                    }
+                ],
+                "director": "林珍钊",
+                "category": "动画",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆 日本 韩国",
+                "language": "汉语普通话 日语",
+                "videoId": "XNDI4NDg5NzYxNg==",
+                "premiereAt": 1571443200,
+                "timeType": 3,
+                "runtime": 97,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 28
+    },
+    "msg": "ok"
+}

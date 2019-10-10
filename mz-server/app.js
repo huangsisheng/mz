@@ -15,9 +15,13 @@ router.get('/gateway', async (ctx) => {
     ctx.response.type = 'json'
     ctx.response.body = fs.createReadStream('./src/assets/json/getcity.json')
 })
-router.get('/movie', async (ctx) => {
+router.get('/nowPlaying', async (ctx) => {
     ctx.response.type = 'json'
-    ctx.response.body = fs.createReadStream('./src/assets/json/movie.json')
+    ctx.response.body = fs.createReadStream('./src/assets/json/nowPlaying.json')
+})
+router.get('/comingSoon', async (ctx) => {
+    ctx.response.type = 'json'
+    ctx.response.body = fs.createReadStream('./src/assets/json/comingSoon.json')
 })
 
 /*启动路由*/

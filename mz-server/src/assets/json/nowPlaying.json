@@ -1,0 +1,998 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 4795,
+                "name": "中国机长",
+                "poster": "https://pic.maizuo.com/usr/movie/ab0ee357e3fb0718059df8d8717a1bf7.jpg",
+                "actors": [
+                    {
+                        "name": "刘伟强",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/985e87ec5ebacc6a2a7e68d1684c16a9.jpg"
+                    },
+                    {
+                        "name": "杜江",
+                        "role": "梁栋",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c54326948ce5ade8c5d516f08efc0a64.jpg"
+                    },
+                    {
+                        "name": "欧豪",
+                        "role": "徐奕晨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b774a2c1024e79d8412bd27a08da6c45.jpg"
+                    },
+                    {
+                        "name": "袁泉",
+                        "role": "毕男",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ea75632e8848032e83048f3777db652b.jpg"
+                    },
+                    {
+                        "name": "张涵予",
+                        "role": "刘长健",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/979a5f8cfc39967f42a05419da85a601.jpg"
+                    }
+                ],
+                "director": "刘伟强",
+                "category": "剧情|传记",
+                "synopsis": "机组执行航班任务时，在万米高空突遇驾驶舱风挡玻璃爆裂脱落、座舱释压的极端罕见险情，生死关头，他们临危不乱、果断应对、正确处置，确保了机上全部人员的生命安全，创造了世界民航史上的奇迹。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "XNDIzNjQwNTk4NA==",
+                "premiereAt": 1569801600,
+                "timeType": 3,
+                "runtime": 111,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4798,
+                "name": "我和我的祖国",
+                "poster": "https://pic.maizuo.com/usr/movie/388fceed894f1f333d34fe29027f8f0b.jpg",
+                "actors": [
+                    {
+                        "name": "陈凯歌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b11656b0854177c385d4b5bd49f97c71.png"
+                    },
+                    {
+                        "name": "管虎",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/51f16ca8bb908dba3bcd1f5376b72405.png"
+                    },
+                    {
+                        "name": "田壮壮",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2b66098d35bb5cbd5269a7c99561b380.png"
+                    },
+                    {
+                        "name": "陈飞宇",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ca6b2db06ebee514ff7865c06cfdb9a.png"
+                    },
+                    {
+                        "name": "刘昊然",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9b9d4421cfa736ffc8e606d4af909ce6.png"
+                    }
+                ],
+                "director": "陈凯歌|张一白",
+                "category": "剧情",
+                "synopsis": "七位导演分别取材新中国成立70周年以来，祖国经历的无数个历史性经典瞬间。讲述普通人与国家之间息息相关密不可分的动人故事。聚焦大时代大事件下，小人物和国家之间，看似遥远实则密切的关联，唤醒全球华人共同回忆。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDE1MTg5NzMwOA==",
+                "premiereAt": 1569888000,
+                "timeType": 3,
+                "runtime": 155,
+                "grade": "8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4794,
+                "name": "攀登者",
+                "poster": "https://pic.maizuo.com/usr/movie/bb591fa17fd6bf142a71393b93a96c57.jpg",
+                "actors": [
+                    {
+                        "name": "李仁港",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ba436b1ecb195a3ad2bf16290061675.png"
+                    },
+                    {
+                        "name": "井柏然",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a1cba60a1ec6bc867a1f5aa1ac2f9b6b.png"
+                    },
+                    {
+                        "name": "吴京",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/83d6a923c365a6ab25367e771e5c8ba5.png"
+                    },
+                    {
+                        "name": "张译",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6c7e4da3189bb3da14e12d6c02ac7d80.png"
+                    },
+                    {
+                        "name": "章子怡",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c0b14d155fa851f9dba095e0aeb1c6c1.png"
+                    }
+                ],
+                "director": "李仁港",
+                "category": "剧情|冒险",
+                "synopsis": "1960年，中国登山队向珠峰发起冲刺，完成了世界首次北坡登顶这一不可能的任务。15 年后，方五洲和曲松林在气象学家徐缨的帮助下，带领李国梁、杨光等年轻队员再次挑战世界之巅。迎接他们的将是更加 严酷的现实，也是生与死的挑战......",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDIzMDIxMTMzMg==",
+                "premiereAt": 1569801600,
+                "timeType": 3,
+                "runtime": 125,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4887,
+                "name": "双子杀手",
+                "poster": "https://pic.maizuo.com/usr/movie/9436cef81abf73e3cc726a5688b79cbd.jpg",
+                "actors": [
+                    {
+                        "name": "本尼迪特·王",
+                        "role": "Baron",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44c13ae0465e3e3931be4463432315b9.png"
+                    },
+                    {
+                        "name": "李安",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/76033264fe39af9f0c087098800303db.png"
+                    },
+                    {
+                        "name": "克里夫·欧文",
+                        "role": "ClayVerris",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ad28e61771b6811da7beb7b35076cb2e.png"
+                    },
+                    {
+                        "name": "玛丽·伊丽莎白·温斯特德",
+                        "role": "DannyZakarweski",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ac59f1314020bf940c6440f14475dae.png"
+                    },
+                    {
+                        "name": "威尔史密斯",
+                        "role": "Henrybrogan/junior",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7e72ba95b2a1d271be0d0318882bcac7.png"
+                    }
+                ],
+                "director": "李安",
+                "category": "剧情|动作|科幻",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆 美国",
+                "language": "英语",
+                "videoId": "XNDM0MDQzMjE4NA==",
+                "premiereAt": 1571356800,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4885,
+                "name": "犯罪现场",
+                "poster": "https://pic.maizuo.com/usr/movie/7f2fde40e6964725842aabc1b266d256.jpg",
+                "actors": [
+                    {
+                        "name": "冯志强",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/02a739a5e05faed07358f1a29c96fd8d.png"
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4457715226dc28bb98a36423dd85c657.png"
+                    },
+                    {
+                        "name": "宣萱.",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b2236c515cd24f264409a7a11aafbf14.png"
+                    },
+                    {
+                        "name": "颜卓灵",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/251ba72110dc65fa6a759de933c16210.png"
+                    },
+                    {
+                        "name": "张继聪",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6944d2b0044a4015311a74af9d5b35ee.png"
+                    }
+                ],
+                "director": "冯志强",
+                "category": "犯罪|悬疑|剧情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港",
+                "language": "粤语",
+                "videoId": "XNDM1NDA2MDU3Ng==",
+                "premiereAt": 1570838400,
+                "timeType": 3,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4797,
+                "name": "雪人奇缘",
+                "poster": "https://pic.maizuo.com/usr/movie/8022d5b5ade1f9cccffc0a9c53c928b9.jpg",
+                "actors": [
+                    {
+                        "name": "张子枫",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/18fb2b8cf96b6b2caab8552b6f68fc0e.jpg"
+                    },
+                    {
+                        "name": "陈飞宇",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b52821f405259430c3b9ddcd2a166fcf.jpg"
+                    },
+                    {
+                        "name": "汪可盈",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/342f6596aa0ca39d918edaa7eb972d83.jpg"
+                    },
+                    {
+                        "name": "吉尔·卡尔顿",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c9153f89928ad8b497b6009bf4abc015.jpg"
+                    },
+                    {
+                        "name": "托德·维尔德曼",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/177b2080b6d489afbc01ffa175d48fc7.jpg"
+                    }
+                ],
+                "director": "吉尔·卡尔顿|托德·维尔德曼",
+                "category": "动画|冒险",
+                "synopsis": "三位都市少年与一个拥有魔力的喜马拉雅小雪人神奇相遇、结伴同行，经历考验最终护送小雪人与家人团聚的故事，期间少年们的内心深深体味了勇敢和家的意义。 特别值得一提的是，多个中国著名景点都会以独一无二的动画语言呈现给全球观众。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国 中国大陆",
+                "language": "英语",
+                "videoId": "XNDE5MzIzNzAzNg==",
+                "premiereAt": 1569888000,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4893,
+                "name": " 急速逃脱",
+                "poster": "https://pic.maizuo.com/usr/movie/d5a7869fe89dc8d906d18c5f97e33eed.jpg",
+                "actors": [
+                    {
+                        "name": "汉娜·赫茨施普龙",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0bb8c2d235ca471a862bba374aa66214.png"
+                    },
+                    {
+                        "name": "克里斯蒂安·阿瓦特",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e030f15753aa9d00c3e139afc9a10bf6.png"
+                    },
+                    {
+                        "name": "克里斯蒂安娜·保罗",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f5f1ccdf604411b8ea445a004ef0d52.png"
+                    },
+                    {
+                        "name": "沃坦·维尔克·默林",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c1c39e805a5eba5a71ffcd671be40ae1.png"
+                    }
+                ],
+                "director": "克里斯蒂安·阿瓦特",
+                "category": "惊悚|悬疑|犯罪",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "德国",
+                "language": "德语",
+                "videoId": "XNDM2NDE2Nzc3Ng==",
+                "premiereAt": 1570838400,
+                "timeType": 3,
+                "runtime": 109,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4760,
+                "name": "哪吒之魔童降世",
+                "poster": "https://pic.maizuo.com/usr/movie/5c4b3d76a2c19c4e666534eb61802e5f.jpg",
+                "actors": [
+                    {
+                        "name": "饺子",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c2414d0a4ca94e37703c5fdf5640f640.jpg"
+                    },
+                    {
+                        "name": "吕艳婷",
+                        "role": "儿童哪吒",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c581b7e9be2fa4c87f320a677653ed83.jpg"
+                    },
+                    {
+                        "name": "囧森瑟夫",
+                        "role": "少年哪吒",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2d280e222a412aa9fb6a3662bb7ccf92.jpg"
+                    },
+                    {
+                        "name": "翰墨",
+                        "role": "敖丙",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6341253bb09f43ea54038053a8071e04.jpg"
+                    },
+                    {
+                        "name": "陈浩",
+                        "role": "李靖",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a48465d3ed89e7249893cc844646e578.jpg"
+                    }
+                ],
+                "director": "饺子",
+                "category": "喜剧|动画",
+                "synopsis": "《哪吒之魔童降世》改编自中国神话故事，将哪吒塑造成一个阴差阳错来到世间惹尽麻烦的乱世“魔童”，围绕这一人物讲述了一个“笑”果十足又丰富多彩的故事。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDAxNTk5ODg0MA==",
+                "premiereAt": 1564099200,
+                "timeType": 3,
+                "runtime": 110,
+                "grade": "8.6",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4770,
+                "name": "罗小黑战记",
+                "poster": "https://pic.maizuo.com/usr/movie/d972c3f425550b48d54332d11fae0a1c.jpg",
+                "actors": [
+                    {
+                        "name": "木头",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d342630f7da35250b66d3248c905e886.png"
+                    }
+                ],
+                "director": "木头",
+                "category": "动画|动作|奇幻",
+                "synopsis": "妖精一直和人类共同生活在这片土地上，而人类并不知道妖精的存在。小黑就是一只小猫妖，这是关于他的故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1568246400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "8.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4777,
+                "name": "丑娃娃",
+                "poster": "https://pic.maizuo.com/usr/movie/b0ec3c1e941b7daea55c5e36956d1f2b.jpg",
+                "actors": [
+                    {
+                        "name": "凯利·阿斯博瑞",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/48e2f7cc26789d1d4f22c476aae0ce44.jpg"
+                    },
+                    {
+                        "name": "布莱克·谢尔顿",
+                        "role": "欧哥 Ox",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d6848d59b58b6a040df1aeaac1bff83a.jpg"
+                    },
+                    {
+                        "name": "凯莉·克拉克森",
+                        "role": "小希 Moxy",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/85639498b0008cf02425979fb6963d39.jpg"
+                    },
+                    {
+                        "name": "尼克·乔纳斯",
+                        "role": "陆少 Lou",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a60180f9ac79ed3e6dddbb64ec50361c.jpg"
+                    },
+                    {
+                        "name": "皮特保罗 道格",
+                        "role": "Ugly Dog",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ac91cb87d4ab83f023a0ce197fa5a166.jpg"
+                    }
+                ],
+                "director": "凯利·阿斯博瑞",
+                "category": "喜剧|动画|奇幻|冒险",
+                "synopsis": "该片讲述了丑娃娃们探索未知世界寻找真正自我的冒险之旅的故事。生活在丑娃镇上的丑娃娃们前往一个叫完美学院的地方探险，那里的娃娃们都精致漂亮，会在毕业前接受训练，然后被送到真实世界里成为孩子们心爱的玩具。小希要和小伙伴们在那里接受训练变身完美娃娃，这对于他们来说并不容易。小希能否完成蜕变，找到属于自己的主人，故事还在继续展开……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国 中国",
+                "language": "英语",
+                "videoId": "XNDI1Mzg3MTAyOA==",
+                "premiereAt": 1565308800,
+                "timeType": 3,
+                "runtime": 187,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4891,
+                "name": "亲密旅行",
+                "poster": "https://pic.maizuo.com/usr/movie/caffb6fc3caafadd457d8caa539a7b30.jpg",
+                "actors": [
+                    {
+                        "name": "沙俊伯",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3c2bb0d5f98ef1bea060aa4d582f3e68.png"
+                    },
+                    {
+                        "name": "沙溢",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4821f63ca5ae05ac00a6b2711ad1be74.png"
+                    },
+                    {
+                        "name": "姚晨",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/002da0e375533a7acc2409bba602aee5.png"
+                    }
+                ],
+                "director": "沙溢",
+                "category": "喜剧|剧情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDM2MzUyMDAxMg==",
+                "premiereAt": 1570060800,
+                "timeType": 3,
+                "runtime": 96,
+                "grade": "6.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4788,
+                "name": "名侦探柯南：绀青之拳",
+                "poster": "https://pic.maizuo.com/usr/movie/46883bc467fb7a3bb3fb98b897951154.jpg",
+                "actors": [
+                    {
+                        "name": "永冈智佳",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2744095cb85dbd3aa954b13d8db064ec.jpg"
+                    },
+                    {
+                        "name": "高山南",
+                        "role": "江户川柯南（配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9dafd9970f6c9e5333c8d0d1e66c5a1c.jpg"
+                    },
+                    {
+                        "name": "小山力也 ",
+                        "role": "毛利小五郎（配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5d5c304545e09661017c3894b4232926.jpg"
+                    },
+                    {
+                        "name": "山口胜平",
+                        "role": "工藤新一（配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ee8551abfda756e2cd9e14b1bff0a7c7.jpg"
+                    },
+                    {
+                        "name": "山崎和佳奈",
+                        "role": "毛利兰（配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d0c41e17cb725db4e422b22faaf4b0a2.jpg"
+                    }
+                ],
+                "director": "永甘智佳",
+                "category": "动画|悬疑|动作",
+                "synopsis": "19世纪末，世界上最大的蓝宝石，又名“绀青之拳”，与一艘海盗船一同沉入了新加坡附近的海域。这时，一个当地的亿万富翁找到了蓝宝石，在他计划将其展现在公众面前时，滨海湾金沙酒店发生了一起谋杀案。在案发现场，发现了一张沾有血迹的卡片，这是怪盗基德（山口胜平 配音）的预告函。与此同时，小兰（山崎和佳奈 配音）和园子（松井菜樱子 配音）为了观看空手道锦标赛而来到了新加坡。由于柯南（高山南 配音）没有护照，所以留在日本。然而，由于基德被卷入谋杀案中，需要柯南的帮助，于是强行把柯南带到了新加坡。为了回家，柯南别无选择，只能帮助基德。没有了眼镜、手表，他变装化身当地人，被小兰问及名字的时候，柯南灵机一动谎称自己是平井亚瑟。基德得到消息，说蓝宝石被存放在一个宅邸的地下仓库里。基德潜入宅邸，一切看起来都太过顺利，但其实此处早已设下陷阱。京极真（桧山修之 配音），这位拥有400场不败纪录的空手道高手，正在那里等待基德的到来。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "日语",
+                "videoId": "XNDMyNDcxODk2MA==",
+                "premiereAt": 1568332800,
+                "timeType": 3,
+                "runtime": 110,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4846,
+                "name": "红星照耀中国",
+                "poster": "https://pic.maizuo.com/usr/movie/720e01907239609bde7e2a8ad80f5452.jpg",
+                "actors": [
+                    {
+                        "name": "王冀邢",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9b6c3ce0e3894bd060e73ba4ffd9aae0.jpg"
+                    },
+                    {
+                        "name": "蒋雯丽",
+                        "role": "宋庆龄",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/486fe883c5acb6e58db959a06560fb61.jpg"
+                    },
+                    {
+                        "name": "柯南·何裴",
+                        "role": " 埃德加·斯诺",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9e308e5499b43bcbcf388125cdf050de.jpg"
+                    },
+                    {
+                        "name": "李雪健",
+                        "role": "鲁迅",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9a9765f7389706ce1e95aa25d2a5c375.jpg"
+                    },
+                    {
+                        "name": "王鹏凯 ",
+                        "role": "毛泽东",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6029e8a5c2259c843eb437128716ff06.jpg"
+                    }
+                ],
+                "director": "王冀邢",
+                "category": "历史|战争",
+                "synopsis": "一个被蒋介石悬赏25万银元全国通缉、无论死活必须取其人头的第一号“赤匪”，一支被数十万国民党军队围追堵截、经过艰苦卓绝长征到达西北不毛之地、立足未稳、不足万人的褴褛之师中央红军，一名漂洋过海寻找“东方魅力”、冒险深入“红区”采访的美国青年记者，在“西安事变”爆发之前，经历了怎样惊心动魄、改变中国前途命运的传奇故事？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1565222400,
+                "timeType": 3,
+                "runtime": 109,
+                "grade": "6.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4762,
+                "name": "诛仙I",
+                "poster": "https://pic.maizuo.com/usr/movie/2e366254955b6ecee5538ca898fb9db8.jpg",
+                "actors": [
+                    {
+                        "name": "肖战",
+                        "role": "张小凡",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e673f8a908c6677968986638f682638e.png"
+                    },
+                    {
+                        "name": "程小东",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/36d3c14cbc8c49ecc79386e3155a4dcd.png"
+                    },
+                    {
+                        "name": "李沁",
+                        "role": "陆雪琪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8061600241013481f28c0dcefe6316d8.png"
+                    },
+                    {
+                        "name": "孟美岐",
+                        "role": "碧瑶",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/464d1f5306b19718f82defe4b5972158.png"
+                    },
+                    {
+                        "name": "唐艺昕",
+                        "role": "田灵儿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6a91eb677d8365063645a58051498c35.png"
+                    }
+                ],
+                "director": "程小东",
+                "category": "古装|玄幻",
+                "synopsis": "电影根据萧鼎小说《诛仙》改编。草庙村被屠，少年张小凡双亲离世，被青云门大竹峰收留。机缘巧合之下，他习得佛门天音功法，又意外获得魔教法器烧火棍，踏上强者之路的同时，也让他陷入了巨大的危机。至魔法器的现世，与陆雪琪、碧瑶、田灵儿三个女生间命运的交错，都让他原本单纯的人生轨迹充满变数。一个勇者驳斥命运的传奇之旅就此展开......",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1568332800,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4738,
+                "name": "小小的愿望",
+                "poster": "https://pic.maizuo.com/usr/movie/ed7aeeae7e382f5fbba25f113399f9e5.jpg",
+                "actors": [
+                    {
+                        "name": "曾梦雪",
+                        "role": "愿望",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/567693b6b48ffd6e4b6c62f8271694d5.png"
+                    },
+                    {
+                        "name": "贾冰",
+                        "role": "张父",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/aac4c0f624ed57baa063d52872ee4d60.png"
+                    },
+                    {
+                        "name": "彭昱畅",
+                        "role": "高远",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f838686d6dedc14e8c0b737fa579518e.png"
+                    },
+                    {
+                        "name": "田羽生",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/09f3ecf82ef21f23d0e456b1b0700847.png"
+                    },
+                    {
+                        "name": "王大陆",
+                        "role": "徐浩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bd8a5d902dd9d021bb337203a8b11c5d.png"
+                    }
+                ],
+                "director": "田羽生",
+                "category": "剧情|喜剧",
+                "synopsis": "突然患上肌肉萎缩症的高中生高远（彭昱畅 饰），被医生告知时日不多，决心在临死之前完成一个愿望，那就是成为一个真正的男人！得知这个消息的身边两位好兄弟徐浩（王大陆 饰）和张正阳（魏大勋 饰），为了兄弟最后的愿望，不惜一切奋战到底！",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1568246400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4858,
+                "name": "决胜时刻",
+                "poster": "https://pic.maizuo.com/usr/movie/67ef0d0927de173dd400fdfb79590b58.jpg",
+                "actors": [
+                    {
+                        "name": "黄景瑜",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2db047f69978a97fec87a8306fd5fff9.jpg"
+                    },
+                    {
+                        "name": "刘劲",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/75a6ba918d44633701b6cfc67032c11e.jpg"
+                    },
+                    {
+                        "name": "唐国强",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/21bc1e17dfd536adf34f9c84b655c8ae.jpg"
+                    },
+                    {
+                        "name": "黄建新",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/87acf7c3a76cae031c850f36e0a042b9.jpg"
+                    }
+                ],
+                "director": "黄建新|宁海强",
+                "category": "传记|历史",
+                "synopsis": "1949年，党中央领导人进驻北京香山，在国共和谈破裂的千钧一发之际，全力筹划建立新中国。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDIzNTkzNjMyMA==",
+                "premiereAt": 1568246400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4776,
+                "name": "友情以上",
+                "poster": "https://pic.maizuo.com/usr/movie/3b74b16abdc0cb5a56f99df11ebbbd8f.jpg",
+                "actors": [
+                    {
+                        "name": "查亚诺普·布恩帕拉科布",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a9d88a8982d9d35d0f1648615e4e7bd0.jpg"
+                    },
+                    {
+                        "name": "纳塔西特·科蒂马努瓦尼",
+                        "role": "Friend Zone Buddy 2",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3bf7ba2e90a4aaa4784fc49ff700d3a6.jpg"
+                    },
+                    {
+                        "name": "奈哈·西贡索邦",
+                        "role": "潘",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2ebea9d4d1e981c3ac02e8a332b3af4c.jpg"
+                    },
+                    {
+                        "name": "平采娜·乐维瑟派布恩",
+                        "role": "琴",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3e21ddf38ea648397269932cb048e068.jpg"
+                    }
+                ],
+                "director": "查亚诺普·布恩帕拉科布",
+                "category": "剧情|爱情",
+                "synopsis": "高中时期，阿潘（Nine 饰）鼓起勇气跟他最好的朋友小琴（平采娜 饰）告白，却惨遭小琴以“好朋友”名义婉转拒绝，被发好人卡的阿潘只得继续以“好朋友”的身份默默地陪伴在小琴身边。多年以后，小琴爱上了一名音乐制作人泰德；有了这个天才男友，阿潘与小琴更加只能维持着“友情以上，恋人未满”的关系。泰德因工作需求，身边经常围绕着许多年轻的美眉，小琴只好请求他最好的朋友阿潘来帮忙守护这份爱情，阿潘则决定奋力一搏：“我才不要当什么狗屁好朋友！”究竟，阿潘是否能打破“好朋友”的界线，成功追到小琴摆脱单身呢？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "泰国",
+                "language": "泰语",
+                "videoId": "XNDI1ODk2NDgxMg==",
+                "premiereAt": 1564704000,
+                "timeType": 3,
+                "runtime": 120,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4785,
+                "name": "速度与激情：特别行动",
+                "poster": "https://pic.maizuo.com/usr/movie/97730d2c52fc77ef95598f501697ea2c.jpg",
+                "actors": [
+                    {
+                        "name": "大卫·雷奇",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/16a91c67baac7ea8932a5b56945b882c.jpg"
+                    },
+                    {
+                        "name": "道恩·强森",
+                        "role": "卢克·霍布斯",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/108f0dbf3353824648c18ef6c902e50a.jpg"
+                    },
+                    {
+                        "name": "杰森·斯坦森",
+                        "role": "德卡特·肖",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d5f5d9a97258547606eb45e8318d521e.jpg"
+                    },
+                    {
+                        "name": "伊德瑞斯·艾尔巴",
+                        "role": "布里克斯顿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/04815de33c6063b8bca0f853ee5c6a9c.jpg"
+                    },
+                    {
+                        "name": "艾莎·冈萨雷斯",
+                        "role": "Madam M",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d6ade6e9a7f7ef03e5955da624e7a78c.jpg"
+                    }
+                ],
+                "director": "大卫·雷奇",
+                "category": "动作|惊悚|犯罪",
+                "synopsis": "一个是美国外交安全局的忠诚特工、身材魁梧的执法者霍布斯（强森 饰），一个是前英国军事特工精英、无法无天的恶棍肖（斯坦森 饰）。在2015年的《速度与激情7》中首次对峙之后，两人不论言语还是肢体都冲突不断，一直试图打倒对方。  然而，通过高科技进行了基因增强的无政府主义者布里克斯顿（伊德瑞斯·艾尔巴饰）控制了一种可能永远改变人类命运的不为人知的生化武器，并且还打败了一位大胆优秀又特立独行的军情六处特工（曾出演《王冠》的凡妮莎·科比饰）——她恰好是肖的妹妹，为了扳倒这个世界上唯一可能比他们更厉害的敌人，这两个不共戴天的宿敌不得不联手。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "英国 美国",
+                "language": "英语",
+                "videoId": "XNDI0Nzc1ODAzNg==",
+                "premiereAt": 1566518400,
+                "timeType": 3,
+                "runtime": 133,
+                "grade": "7.6",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4868,
+                "name": "徒手攀岩",
+                "poster": "https://pic.maizuo.com/usr/movie/782608d4905e741d01fd2dd55959636a.jpg",
+                "actors": [
+                    {
+                        "name": "伊丽莎白·柴·瓦沙瑞莉",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bb10f444e74b49e393c77286637e08e9.jpg"
+                    },
+                    {
+                        "name": "金国威",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/970b7d3eedc27088c15aa31217da2b84.jpg"
+                    },
+                    {
+                        "name": "切恩·莱姆",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e9324c98681c66ec4488b019a919f0dd.jpg"
+                    },
+                    {
+                        "name": "汤米·考德威尔",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/39e017d76c98ba3fad132c4a52db703d.jpg"
+                    },
+                    {
+                        "name": "亚历克斯·霍诺德",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0bc998e0f042d4e62bf5541474d5efbc.jpg"
+                    }
+                ],
+                "director": "伊丽莎白·柴·瓦沙瑞莉|金国威",
+                "category": "纪录片",
+                "synopsis": "亚历克斯·霍诺德从2009年就梦想着徒手攀登酋长岩，此后尝试了1000多次，而徒手攀登酋长岩是自己的 “终极目标”。为此，他准备了一年半的时间，借助绳索攀爬过近60次酋长岩。他表示，自己这样做并非为了进行预演，而是反复尝试不同的岩点，研究攻克最难的区域。纪录片拍下了约塞米蒂国家公园及酋长岩的壮丽景色及霍诺德登顶的历史时刻。除此之外，片中还回顾了他怎样处理极限目标带来的生命风险，以及他如何追求卓越完美，从而在无绳索保护的情况下保证万无一失。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1567728000,
+                "timeType": 3,
+                "runtime": 101,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4749,
+                "name": "小Q",
+                "poster": "https://pic.maizuo.com/usr/movie/74e47cdc48d4b9c46535c08ff5e354f8.jpg",
+                "actors": [
+                    {
+                        "name": "罗永昌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6aa8e2dfc2f2099b894dc27791b45ef7.jpg"
+                    },
+                    {
+                        "name": "梁咏琪",
+                        "role": "李宝儿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a609cb8e655c37afd71de453c5e39cf.jpg"
+                    },
+                    {
+                        "name": "罗仲谦",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fed8d45c4315f23eea074b8364d6f5a5.jpg"
+                    },
+                    {
+                        "name": "任达华",
+                        "role": "李宝庭",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8bcb3ef16eddb9c17a17dd141e8c40a6.jpg"
+                    }
+                ],
+                "director": "罗永昌",
+                "category": "剧情|动物|温情|感动",
+                "synopsis": "聪明可爱的小Q在训练师悉心照料和训练过程中成长为一只合格的导盲犬，并遇到了主人李宝庭——中年失明、孤僻又坏脾气的天才糕点师。他们共同生活的日子里，小Q逐渐融化并走入了宝庭的心里，温情的陪伴令处于低谷期的宝庭有了新生活，一人一犬，深深的羁绊，他们谁也无法再失去彼此。直到有一天，宝庭倒下了……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDE3MTQzODIxNg==",
+                "premiereAt": 1568937600,
+                "timeType": 3,
+                "runtime": 107,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 27
+    },
+    "msg": "ok"
+}
+
+        
