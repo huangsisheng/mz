@@ -25,7 +25,8 @@ router.get('/comingSoon', async (ctx) => {
 })
 
 /*启动路由*/
-app.use(router.routes())
+app
+    .use(router.routes())
     .use(router.allowedMethods());
 
 app.listen(3000)
