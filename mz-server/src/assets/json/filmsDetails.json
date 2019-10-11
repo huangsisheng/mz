@@ -1,0 +1,67 @@
+{
+    "status": 0,
+    "data": {
+        "film": {
+            "filmId": 4795,
+            "name": "中国机长",
+            "poster": "https://pic.maizuo.com/usr/movie/5b25c44857e37b4c852b52f647e771c9.jpg",
+            "actors": [
+                {
+                    "name": "刘伟强",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/985e87ec5ebacc6a2a7e68d1684c16a9.jpg"
+                },
+                {
+                    "name": "杜江",
+                    "role": "梁栋",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/c54326948ce5ade8c5d516f08efc0a64.jpg"
+                },
+                {
+                    "name": "欧豪",
+                    "role": "徐奕晨",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/b774a2c1024e79d8412bd27a08da6c45.jpg"
+                },
+                {
+                    "name": "袁泉",
+                    "role": "毕男",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/ea75632e8848032e83048f3777db652b.jpg"
+                },
+                {
+                    "name": "张涵予",
+                    "role": "刘长健",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/979a5f8cfc39967f42a05419da85a601.jpg"
+                }
+            ],
+            "director": "刘伟强",
+            "category": "剧情|传记",
+            "synopsis": "机组执行航班任务时，在万米高空突遇驾驶舱风挡玻璃爆裂脱落、座舱释压的极端罕见险情，生死关头，他们临危不乱、果断应对、正确处置，确保了机上全部人员的生命安全，创造了世界民航史上的奇迹。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "XNDIzNjQwNTk4NA==",
+            "premiereAt": 1569801600,
+            "timeType": 3,
+            "runtime": 111,
+            "photos": [
+                "https://pic.maizuo.com/usr/100004795/bcffad870d837219b47b06ed97f4fe08.jpg",
+                "https://pic.maizuo.com/usr/100004795/c91fe7497be69510fab25e73f988dec8.jpg",
+                "https://pic.maizuo.com/usr/100004795/d52fc39f8e5b286d7d022bf7948b8f75.jpg",
+                "https://pic.maizuo.com/usr/100004795/ec00be5b30e51a8c1e1425030b8556fa.jpg",
+                "https://pic.maizuo.com/usr/100004795/05bca39f1a1204b612e7eaff7c7440cf.jpg",
+                "https://pic.maizuo.com/usr/100004795/4e2190ae8903666705814d050b3985bd.jpg",
+                "https://pic.maizuo.com/usr/100004795/9e7b3d67b3295fff10df9a7afd111645.jpg"
+            ],
+            "grade": "7",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": false,
+            "isSale": true
+        }
+    },
+    "msg": "ok"
+}
