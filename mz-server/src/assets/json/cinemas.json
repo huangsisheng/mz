@@ -1,0 +1,442 @@
+{
+    "status": 0,
+    "data": {
+        "cinemas": [
+            {
+                "cinemaId": 8439,
+                "name": "德阳旌阳学府激光影城",
+                "address": "泰山南路二段910号英伦联邦1栋A区地下一层",
+                "longitude": 104.392805,
+                "latitude": 31.097956,
+                "gpsAddress": "104.392805:31.097956",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510603,
+                "districtName": "旌阳区",
+                "district": {
+                    "districtId": 510603,
+                    "name": "旌阳区"
+                },
+                "phone": "0838-3456256",
+                "telephones": [
+                    "0838-3456256"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8439/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 1.408544363217578,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8442,
+                "name": "咪咕云影院",
+                "address": "庐山南路一段63号",
+                "longitude": 104.41718015405594,
+                "latitude": 31.12841410711897,
+                "gpsAddress": "104.41718015405594:31.12841410711897",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510603,
+                "districtName": "旌阳区",
+                "district": {
+                    "districtId": 510603,
+                    "name": "旌阳区"
+                },
+                "phone": "0838-6185873",
+                "telephones": [
+                    "0838-6185873"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8442/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 1.647293386814484,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 9390,
+                "name": "金逸影城德阳盛唐摩尔店",
+                "address": "四川省德阳市庐山南路二段49号盛唐摩尔第三层",
+                "longitude": 104.41874230733778,
+                "latitude": 31.125755640622486,
+                "gpsAddress": "104.41874230733778:31.125755640622486",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510603,
+                "districtName": "旌阳区",
+                "district": {
+                    "districtId": 510603,
+                    "name": "旌阳区"
+                },
+                "phone": "0838-2276888",
+                "telephones": [
+                    "0838-2276888"
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2500,
+                "Distance": 1.825563913674048,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 3198,
+                "name": "德阳市华纳国际影城",
+                "address": "四川省德阳市旌阳区屏山街199号（一棵树店）",
+                "longitude": 104.42116682182294,
+                "latitude": 31.141238886092115,
+                "gpsAddress": "104.42116682182294:31.141238886092115",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510603,
+                "districtName": "旌阳区",
+                "district": {
+                    "districtId": 510603,
+                    "name": "旌阳区"
+                },
+                "phone": "0838-2500966",
+                "telephones": [
+                    "0838-2500966"
+                ],
+                "logoUrl": "https://pic.maizuo.com/usr/3198/fcc9421568f7f64080f85ff58c5db10c.png",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3100,
+                "Distance": 2.108009144520322,
+                "eTicketFlag": 1,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8443,
+                "name": "黄河电影院",
+                "address": "庐山北路588广电中心一楼（希望城对面）",
+                "longitude": 104.42113160685864,
+                "latitude": 31.158281316990514,
+                "gpsAddress": "104.42113160685864:31.158281316990514",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510603,
+                "districtName": "旌阳区",
+                "district": {
+                    "districtId": 510603,
+                    "name": "旌阳区"
+                },
+                "phone": "0838-5928118",
+                "telephones": [
+                    "0838-5928118"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8443/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3700,
+                "Distance": 2.2168747385976304,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 7442,
+                "name": "中影星美广汉聚星电影城",
+                "address": "广汉市福州路二段一号华地财富（沃尔玛）广场4楼",
+                "longitude": 104.294146,
+                "latitude": 30.973979,
+                "gpsAddress": "104.294146:30.973979",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510681,
+                "districtName": "广汉市",
+                "district": {
+                    "districtId": 510681,
+                    "name": "广汉市"
+                },
+                "phone": "0838-5185999",
+                "telephones": [
+                    "0838-5185999"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/7442/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "10:00-24:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 12.806720211741512,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8438,
+                "name": "德阳太平洋影城（武昌路店）",
+                "address": "武昌路南一段79号（武庙步行街3楼）",
+                "longitude": 104.290883,
+                "latitude": 30.983188,
+                "gpsAddress": "104.290883:30.983188",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510681,
+                "districtName": "广汉市",
+                "district": {
+                    "districtId": 510681,
+                    "name": "广汉市"
+                },
+                "phone": "0838-5244582",
+                "telephones": [
+                    "0838-5244582"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8438/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2100,
+                "Distance": 13.06737871211136,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8440,
+                "name": "德阳EVO艺威影院（锦弘店）",
+                "address": "扬州路锦弘广场2楼（小龙坎楼上）",
+                "longitude": 104.286412,
+                "latitude": 30.999836,
+                "gpsAddress": "104.286412:30.999836",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510681,
+                "districtName": "广汉市",
+                "district": {
+                    "districtId": 510681,
+                    "name": "广汉市"
+                },
+                "phone": "0838-5888895",
+                "telephones": [
+                    "0838-5888895"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8440/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3000,
+                "Distance": 13.409690322518776,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 4952,
+                "name": "星美影商城（德阳广汉万豪店）",
+                "address": "四川省广汉市中山大道南1段169号地高天阶汇2楼",
+                "longitude": 104.286952,
+                "latitude": 30.971224,
+                "gpsAddress": "104.286952:30.971224",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510681,
+                "districtName": "广汉市",
+                "district": {
+                    "districtId": 510681,
+                    "name": "广汉市"
+                },
+                "phone": "0838-5356990",
+                "telephones": [
+                    "0838-5356990"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/4952/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+                "businessTime": "10:00-23:00",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 1800,
+                "Distance": 13.587108862389963,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8449,
+                "name": "中影百誉影城（绵竹店）",
+                "address": "剑南镇紫岩路280号宏远广场5楼",
+                "longitude": 104.212039,
+                "latitude": 31.341545,
+                "gpsAddress": "104.212039:31.341545",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510604,
+                "districtName": "罗江区",
+                "district": {
+                    "districtId": 510604,
+                    "name": "罗江区"
+                },
+                "phone": "0838-5982888",
+                "telephones": [
+                    "0838-5982888"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8449/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3600,
+                "Distance": 21.96689317440383,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8892,
+                "name": "德阳市太平洋影城（什邡百盛店）",
+                "address": "四川省德阳市什邡市海盛东方银座西北(亭江东路北)",
+                "longitude": 104.18255663816134,
+                "latitude": 31.136576705852285,
+                "gpsAddress": "104.18255663816134:31.136576705852285",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510682,
+                "districtName": "什邡市",
+                "district": {
+                    "districtId": 510682,
+                    "name": "什邡市"
+                },
+                "telephones": [
+                    ""
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 4000,
+                "Distance": 24.47306433601603,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 9172,
+                "name": "什邡横店电影城天耀店",
+                "address": "四川省德阳市什邡市蓥华山北路蓝剑.天耀中心三、四楼",
+                "longitude": 104.17442710355034,
+                "latitude": 31.13288904823836,
+                "gpsAddress": "104.17442710355034:31.13288904823836",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510682,
+                "districtName": "什邡市",
+                "district": {
+                    "districtId": 510682,
+                    "name": "什邡市"
+                },
+                "phone": "0838-8800789",
+                "telephones": [
+                    "0838-8800789"
+                ],
+                "logoUrl": "",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3900,
+                "Distance": 25.37762938595137,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8447,
+                "name": "保利万和国际影城（中江店）",
+                "address": "伍城南路88号洋洋百货五楼",
+                "longitude": 104.68406133123732,
+                "latitude": 31.038560352395034,
+                "gpsAddress": "104.68406133123732:31.038560352395034",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510623,
+                "districtName": "中江县",
+                "district": {
+                    "districtId": 510623,
+                    "name": "中江县"
+                },
+                "phone": "0838-3262000",
+                "telephones": [
+                    "0838-3262000"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8447/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3400,
+                "Distance": 31.46124693195802,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8448,
+                "name": "新时代影城（中江店）",
+                "address": "公园广场阳光盛源商场5楼",
+                "longitude": 104.685908,
+                "latitude": 31.039206,
+                "gpsAddress": "104.685908:31.039206",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510623,
+                "districtName": "中江县",
+                "district": {
+                    "districtId": 510623,
+                    "name": "中江县"
+                },
+                "phone": "0838-6667000",
+                "telephones": [
+                    "0838-6667000"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8448/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 3200,
+                "Distance": 31.66466818152447,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            },
+            {
+                "cinemaId": 8450,
+                "name": "环球国际影城(罗江店)",
+                "address": "万安南路335号凯悦广场c栋4楼1号",
+                "longitude": 104.861412,
+                "latitude": 26.589417,
+                "gpsAddress": "104.861412:26.589417",
+                "cityId": 510600,
+                "cityName": "德阳市",
+                "districtId": 510604,
+                "districtName": "罗江区",
+                "district": {
+                    "districtId": 510604,
+                    "name": "罗江区"
+                },
+                "phone": "0838-3330333",
+                "telephones": [
+                    "0838-3330333"
+                ],
+                "logoUrl": "https://pic.maizuo.comusr/8450/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+                "businessTime": "",
+                "notice": "",
+                "isVisited": 0,
+                "lowPrice": 2100,
+                "Distance": 137.51337189015678,
+                "eTicketFlag": 0,
+                "seatFlag": 1,
+                "ticketTypes": null
+            }
+        ]
+    },
+    "msg": "ok"
+}
