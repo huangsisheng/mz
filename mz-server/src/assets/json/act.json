@@ -1,0 +1,31 @@
+{
+    "status": 0,
+    "data": {
+        "data": {
+            "cityFlag": 0,
+            "cityId": "",
+            "endDate": "",
+            "filmId": 0,
+            "flag": "",
+            "id": 263,
+            "jsContent": "",
+            "jumpUrl": "",
+            "meta": "",
+            "share": 1,
+            "shareContentFriend": "电影资讯",
+            "shareContentMoment": "电影资讯",
+            "shareLogoPicAddress": "https://static.maizuo.com/v5/upload/a4f4a7df5cc435baa98e513f7eead9c7.jpg",
+            "shareTitleFriend": "电影资讯",
+            "shareTitleMoment": "电影资讯",
+            "startDate": "",
+            "staticpicAddress": "",
+            "test": 0,
+            "title": "电影资讯",
+            "top": ""
+        },
+        "extra": "",
+        "msg": "success",
+        "status": 0
+    },
+    "msg": "ok"
+}

@@ -1,0 +1,57 @@
+{
+    "status": 0,
+    "data": [
+        {
+            "bannerId": 311,
+            "actionType": 22,
+            "actionData": {"businessId":"4794"},
+            "imgUrl": "https://static.maizuo.com/v5/upload/500b2ab1a47f73d0a54d1a39ce518a6d.jpg",
+            "masterTitle": "",
+            "slaveTitle": "",
+            "displayOrder": 0,
+            "bindBusinessId": "",
+            "cityIds": "0",
+            "name": "攀登者",
+            "displayTimes": 0,
+            "slaveImgUrl": "",
+            "startTime": "1570723200",
+            "endTime": "1571414399",
+            "businessId": ""
+        },
+        {
+            "bannerId": 312,
+            "actionType": 22,
+            "actionData": {"businessId":"4798"},
+            "imgUrl": "https://static.maizuo.com/v5/upload/a2a67dd1b49ca35b355530e4d3a721dd.jpg",
+            "masterTitle": "",
+            "slaveTitle": "",
+            "displayOrder": 0,
+            "bindBusinessId": "",
+            "cityIds": "0",
+            "name": "我和我的祖国",
+            "displayTimes": 0,
+            "slaveImgUrl": "",
+            "startTime": "1570723200",
+            "endTime": "1571414399",
+            "businessId": ""
+        },
+        {
+            "bannerId": 313,
+            "actionType": 22,
+            "actionData": {"businessId":"4795"},
+            "imgUrl": "https://static.maizuo.com/v5/upload/f2f1d6ed8d740aad120d28178a5296c1.jpg",
+            "masterTitle": "",
+            "slaveTitle": "",
+            "displayOrder": 0,
+            "bindBusinessId": "",
+            "cityIds": "0",
+            "name": "中国机长",
+            "displayTimes": 0,
+            "slaveImgUrl": "",
+            "startTime": "1570723200",
+            "endTime": "1571414399",
+            "businessId": ""
+        }
+    ],
+    "msg": "success"
+}

@@ -62,6 +62,14 @@ router.get('/cinemas', async (ctx) => {
     ctx.response.type = 'json'
     ctx.response.body = fs.createReadStream('./src/assets/json/cinemas.json')
 })
+router.get('/act', async (ctx) => {
+    ctx.response.type = 'json'
+    ctx.response.body = fs.createReadStream('./src/assets/json/act.json')
+})
+router.get('/banner', async (ctx) => {
+    ctx.response.type = 'json'
+    ctx.response.body = fs.createReadStream('./src/assets/json/banner.json')
+})
 
 /*启动路由*/
 app
