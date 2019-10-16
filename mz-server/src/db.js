@@ -18,6 +18,7 @@ const userSchema = mongoose.Schema({
     username: String,
     password: String,
     token: String,
+    suggestion:String,
     create_time: Date,
     change_time: Date
 });

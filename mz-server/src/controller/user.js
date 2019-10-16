@@ -46,12 +46,19 @@ const delUser = function (id) {
 // 修改某个用户
 const changeUser = (username, password) => {
     return new Promise((resolve,reject) => {
-        User.findOneAndUpdate({ username },{password},(error,doc) => {
+        User.findOneAndUpdate({ username },{ password },(error,doc) => {
             if(error){
                 reject(error)
             }
             resolve(doc)
         })
+    })
+}
+// 某个用户添加意见
+const addSuggest = (username, suggest) => {
+    return new Promise((resolve,reject) => {
+        let arr = [{ suggestion: suggest}]
+        User.insertMany(arr)
     })
 }
 
@@ -199,10 +206,39 @@ const DelUser = async (ctx) => {
     };
 };
 
+// 用户意见
+const Suggest = async (ctx) => {
+    const userInfo = ctx.request.body
+    let doc = await findUser(userInfo.username)
+    ctx.status = 200
+    if (doc){
+        await new Promise((resolve, reject) => {
+            doc.save((err) => {
+                if (err) {
+                    reject(err);
+                }
+                resolve();
+            });
+        });
+        ctx.body = {
+            code: 0,
+            success: true,
+            msg: '提交成功'
+        }
+    }else{
+        ctx.body = {
+            code:-1,
+            success:false,
+            msg:'提交失败'
+        }
+    }
+}
+
 module.exports = {
     Login,
     Reg,
     Reset,
     GetAllUsers,
-    DelUser
+    DelUser,
+    Suggest
 };
