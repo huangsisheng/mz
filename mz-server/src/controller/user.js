@@ -43,6 +43,19 @@ const delUser = function (id) {
         });
     });
 };
+// 修改某个用户
+const changeUser = (username, password) => {
+    return new Promise((resolve,reject) => {
+        User.findOneAndUpdate({ username },{password},(error,doc) => {
+            if(error){
+                reject(error)
+            }
+            resolve(doc)
+        })
+    })
+}
+
+
 //登录
 const Login = async (ctx) => {
     //拿到账号和密码
@@ -128,6 +141,42 @@ const Reg = async (ctx) => {
         }
     }
 };
+// 重置密码
+const Reset = async (ctx) => {
+    let user = new User({
+        username: ctx.request.body.name,
+        password: sha1(ctx.request.body.pass), //加密
+        token: createToken(this.username), //创建token并存入数据库
+    });
+    // 修改时间
+    user.change_time = moment(objectIdToTimestamp(user._id)).format('YYYY-MM-DD HH:mm:ss');
+    let doc = await changeUser(user.username, user.password)
+    if (doc){
+        await new Promise((resolve, reject) => {
+            doc.save((err) => {
+                if (err) {
+                    reject(err);
+                }
+                resolve();
+            });
+        });
+        console.log('重置成功');
+        ctx.status = 200;
+        ctx.body = {
+            code: 0,
+            success: true,
+            msg: '重置成功'
+        }
+    }else{
+        ctx.status = 200;
+        ctx.body = {
+            code:-1,
+            succsess:false,
+            msg:'未找到该用户'
+        }
+    }
+
+}
 //获得所有用户信息
 const GetAllUsers = async (ctx) => {
     //查询所有用户信息
@@ -153,6 +202,7 @@ const DelUser = async (ctx) => {
 module.exports = {
     Login,
     Reg,
+    Reset,
     GetAllUsers,
     DelUser
 };

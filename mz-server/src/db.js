@@ -18,7 +18,8 @@ const userSchema = mongoose.Schema({
     username: String,
     password: String,
     token: String,
-    create_time: Date
+    create_time: Date,
+    change_time: Date
 });
 //根据schema生成model
 const User = mongoose.model('User', userSchema)
